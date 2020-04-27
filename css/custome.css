@@ -1,0 +1,14 @@
+#topFixedNavbar1
+{
+ overflow-y: scroll !important;
+max-height: 500px !important;
+}
+
+#reset{background: #3498db;text-decoration: none;padding: 5px;color: #fff;display: inline-block;width: 100px;text-align: center}
+#topes{margin-top: -50px;padding:5px;background: #27ae60}
+.login-panel {
+    margin-top: 15%;}
+
+ .carousel-caption {top: 479px}
+
+ .carousel {height: 579px}
